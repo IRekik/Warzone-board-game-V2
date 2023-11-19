@@ -4,11 +4,6 @@ Welcome to Warzone, a strategic board game where players battle for control of t
 
 ## Components
 
-### Files
-- `pic`: Image file for the game board background (solar_pic.jpg)
-- `map`: Image file for the game map (solar_map.gif)
-- `crd`: Card deck file (solar.cards)
-
 ### Continents
 1. **Mercury:** 6 armies, Yellow color
 2. **Venus:** 8 armies, Yellow color
